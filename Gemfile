@@ -15,6 +15,7 @@ group :assets do
   gem 'coffee-rails', "~> 3.1.0.rc"
   gem 'uglifier'
   gem 'dynamic_form'
+  gem 'factory_girl'
 end
 
 gem 'jquery-rails'
