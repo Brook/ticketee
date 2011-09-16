@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.1.0.rc6'
+gem 'rails', '3.1.0'
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
@@ -38,3 +38,5 @@ group :test do
   gem 'capybara'
   gem 'database_cleaner'
 end
+
+gem 'devise', '~> 1.4.3'
