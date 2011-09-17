@@ -37,6 +37,7 @@ group :test do
   gem 'cucumber-rails'
   gem 'capybara'
   gem 'database_cleaner'
+  gem 'email_spec'
 end
 
 gem 'devise', '~> 1.4.3'
